@@ -1,0 +1,182 @@
+[
+  {
+    "company": "Velocity Motors",
+    "founded": 1998,
+    "headquarters": {
+      "city": "Detroit",
+      "state": "Michigan",
+      "country": "USA"
+    },
+    "models": [
+      {
+        "model_id": "VM-SX2025",
+        "name": "SpeedX",
+        "type": "Sedan",
+        "year": 2025,
+        "price_usd": 28000
+      }
+    ]
+  },
+  {
+    "company": "NovaDrive",
+    "founded": 2005,
+    "headquarters": {
+      "city": "Austin",
+      "state": "Texas",
+      "country": "USA"
+    },
+    "models": [
+      {
+        "model_id": "ND-E1",
+        "name": "Nova EV1",
+        "type": "Electric",
+        "year": 2025,
+        "price_usd": 39000
+      }
+    ]
+  },
+  {
+    "company": "Falcon Auto",
+    "founded": 1982,
+    "headquarters": {
+      "city": "Tokyo",
+      "state": "Tokyo",
+      "country": "Japan"
+    },
+    "models": [
+      {
+        "model_id": "FA-XR8",
+        "name": "XR8",
+        "type": "Coupe",
+        "year": 2024,
+        "price_usd": 41000
+      }
+    ]
+  },
+  {
+    "company": "TerraMotion",
+    "founded": 2010,
+    "headquarters": {
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany"
+    },
+    "models": [
+      {
+        "model_id": "TM-CityPro",
+        "name": "CityPro",
+        "type": "Hatchback",
+        "year": 2025,
+        "price_usd": 21000
+      }
+    ]
+  },
+  {
+    "company": "Arctic Motors",
+    "founded": 1995,
+    "headquarters": {
+      "city": "Oslo",
+      "state": "Oslo",
+      "country": "Norway"
+    },
+    "models": [
+      {
+        "model_id": "AM-IceEV",
+        "name": "IceRunner EV",
+        "type": "Electric",
+        "year": 2025,
+        "price_usd": 47000
+      }
+    ]
+  },
+  {
+    "company": "Solaris Auto",
+    "founded": 2000,
+    "headquarters": {
+      "city": "San Jose",
+      "state": "California",
+      "country": "USA"
+    },
+    "models": [
+      {
+        "model_id": "SA-SunRay",
+        "name": "SunRay",
+        "type": "Hybrid",
+        "year": 2025,
+        "price_usd": 33000
+      }
+    ]
+  },
+  {
+    "company": "Phoenix Motors",
+    "founded": 1988,
+    "headquarters": {
+      "city": "Sydney",
+      "state": "NSW",
+      "country": "Australia"
+    },
+    "models": [
+      {
+        "model_id": "PM-Viper",
+        "name": "Viper V6",
+        "type": "Truck",
+        "year": 2025,
+        "price_usd": 37000
+      }
+    ]
+  },
+  {
+    "company": "EuroTorque",
+    "founded": 1975,
+    "headquarters": {
+      "city": "Munich",
+      "state": "Bavaria",
+      "country": "Germany"
+    },
+    "models": [
+      {
+        "model_id": "ET-GT2025",
+        "name": "GranTourer",
+        "type": "Sedan",
+        "year": 2025,
+        "price_usd": 46000
+      }
+    ]
+  },
+  {
+    "company": "Zenith Mobility",
+    "founded": 2012,
+    "headquarters": {
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "country": "China"
+    },
+    "models": [
+      {
+        "model_id": "ZM-Z1",
+        "name": "ZenOne",
+        "type": "Compact",
+        "year": 2025,
+        "price_usd": 18000
+      }
+    ]
+  },
+  {
+    "company": "Atlas Automotive",
+    "founded": 1990,
+    "headquarters": {
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada"
+    },
+    "models": [
+      {
+        "model_id": "AA-XTrail",
+        "name": "X-Trail",
+        "type": "SUV",
+        "year": 2025,
+        "price_usd": 39000
+      }
+    ]
+  }
+]
